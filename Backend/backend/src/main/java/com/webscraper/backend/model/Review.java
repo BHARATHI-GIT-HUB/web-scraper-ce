@@ -20,7 +20,8 @@ public class Review {
     private String title;
     private String context;
 
-    @DBRef
-    private Product product;
+//    @DBRef
+//    private Product product;
+
 
 }

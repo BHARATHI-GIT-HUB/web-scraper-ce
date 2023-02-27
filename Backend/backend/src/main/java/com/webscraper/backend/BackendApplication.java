@@ -22,23 +22,7 @@ public class BackendApplication {
 
 	public static void main(String[] args) throws IOException {
 		SpringApplication.run(BackendApplication.class, args);
-//		System.out.println("hello");
 
-
-
-//		Elements reviews = doc.select(".a-section.review");
-//
-//		for (Element review : reviews) {
-////			System.out.println(review);
-////			System.out.println(review.select("a-profile-name").text());
-//			String rating = review.select(".a-icon-alt").text();
-//			String title = review.select(".review-title").text();
-//			String content = review.select(".review-text").text();
-//			System.out.println("Rating: " + rating);
-//			System.out.println("Title: " + title);
-//			System.out.println("Content: " + content);
-////			System.out.println("-----------------------------------");
-//		}
 
 	}
 
